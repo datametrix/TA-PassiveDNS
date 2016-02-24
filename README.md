@@ -1,7 +1,4 @@
 # TA-PassiveDNS
-Technology Add-on for Gamelinux PassiveDNS (https://github.com/gamelinux/passivedns)
-
-# TA-tshark_dns
 CIM compliant Technology Add-on for Gamelinux PassiveDNS (https://github.com/gamelinux/passivedns)
 
 
